@@ -108,3 +108,10 @@ address{
   }
   .nonSmoking{ background-color: green;}
   .smoking{ background-color: red;}
+
+  #carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
